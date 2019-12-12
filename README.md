@@ -68,6 +68,6 @@ Mvvm
  -----
  create movie app
  
- dynamic features
-
-viewmodelscope menghandle scope di blakangnya. tpand di handle lagi 
+ ViewmodelScope -> ketika viewmodel ga dipake, auto cancel job.
+ 
+ 

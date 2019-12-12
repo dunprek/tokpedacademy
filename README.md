@@ -68,5 +68,4 @@ Mvvm
  -----
  create movie app
  
- 
- 
+ dynamic features
